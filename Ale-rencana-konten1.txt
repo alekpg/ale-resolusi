@@ -1,3 +1,5 @@
 RENCANA KONTEN 1:
 - CSS
 - PYTON
+- Javascript
+- PHP
